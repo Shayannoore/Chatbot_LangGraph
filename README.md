@@ -11,7 +11,7 @@ A powerful, multi-utility chatbot built with **LangGraph** and **Streamlit**. Th
 - **💾 Persistent Memory**: Chat history is saved in a local SQLite database, allowing you to resume past conversations using Thread IDs.
 - **📊 Interactive UI**: Clean and modern Streamlit interface with sidebar management for threads and file uploads.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 - **Core Framework**: LangGraph
 - **LLM**: Google Gemini (via `langchain-google-genai`)
