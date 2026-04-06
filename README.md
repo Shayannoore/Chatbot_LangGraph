@@ -1,4 +1,4 @@
-# LangGraph PDF Chatbot 🤖
+# LangGraph PDF Chatbot 🤖 
 
 A powerful, multi-utility chatbot built with **LangGraph** and **Streamlit**. This assistant can engage in intelligent conversations, perform web searches, solve math problems, fetch real-time stock prices, and most importantly, perform **RAG (Retrieval-Augmented Generation)** on uploaded PDF documents.
 
