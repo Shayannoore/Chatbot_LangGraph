@@ -225,7 +225,8 @@ if selected_thread:
 # add_thread(st.session_state['thread_id'])
 
 
-# # -------------SIDEBAR-------------
+# # -------------SIDEBAR--------------
+
 
 # st.sidebar.title("Chatbot")
 
